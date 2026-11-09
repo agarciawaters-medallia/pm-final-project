@@ -6,6 +6,7 @@
 
 ## Responses
 
-- **Feature with no strategic answer (why is this a 12-week priority?):** _(not filled in)_
-- **Feature that looks "correct" but has zero strategic weight:** _(not filled in)_
-- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** _(not filled in)_
+- **Feature with no strategic answer (why is this a 12-week priority?):** Drink types with hydration factor
+- **Feature that looks "correct" but has zero strategic weight:** Fun facts or tips
+- **V3 vs your Step 1 baseline — what changed, and was it your PM knowledge that forced usefulness?:** The added context and structure of instructions force a more useful output
+- **Key takeaway — how does this prove the PM's role is to think while the AI's role is to execute?:** The PM needs to still understand their core space, challenges and target customer well enough to prompt well-guided questions to align with their target outcome
