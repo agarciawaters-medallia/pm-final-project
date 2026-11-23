@@ -68,5 +68,5 @@
 - **Did the AI catch the specific moment of misery / pain point you found in Step 1?:** Yes, it merged some of the callouts I had listed as the first and second moments of misery.
 - **Did it smooth over a critical frustration into a generic bullet point?:** The routing challenges have been distilled into an algorithm curation bullet point that feels inaccurate and should have more emphasis, since it is a time loss and frustration impacting delivery time.
 - **Did the AI try to suggest features or a roadmap despite the constraints?:** It didn't create a roadmap or suggest specific features, but it grouped the insights into themes.
-- **Logic leak / hallucination #1:** _(not filled in)_
-- **Logic leak / hallucination #2:** _(not filled in)_
+- **Logic leak / hallucination #1:** None identified.
+- **Logic leak / hallucination #2:** None identified.
